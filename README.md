@@ -1,9 +1,5 @@
 # eastmoney-client
 
-### screenshot of daily tick
+Figure: screenshot of daily tick and its cropped images
 
-<img src="images/screenshot_000001_20200512.png" alt="screenshot_000001_20200512.png" style="zoom:50%;" />
-
-### cropped effect
-
-<img src="images/cropped_000001_20200512.png" alt="cropped_000001_20200512.png" style="zoom:50%;" />
+![screenshot_000001_20200512](https://github.com/konhay/eastmoney-client/assets/26830433/068a9df4-e346-43ce-b4d8-dcf9449e4bd5)
